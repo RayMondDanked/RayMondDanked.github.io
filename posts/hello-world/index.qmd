@@ -1,0 +1,28 @@
+---
+title: "Hello World"
+description: "First post — checking that math and code render."
+author: "Veerawat Raymond"
+date: 2026-09-02
+categories: [meta]
+---
+
+## Math
+
+Inline math works like this: the update $x_{k+1} = x_k - \alpha \nabla f(x_k)$
+should render as a formula rather than literal dollar signs.
+
+Display math:
+
+$$
+\min_{x \in \mathcal{X}} \; f(x), \qquad \mathcal{X} \subseteq \mathbb{R}^n
+$$
+
+## Code
+
+```julia
+function rosenbrock(x)
+    return (1 - x[1])^2 + 100 * (x[2] - x[1]^2)^2
+end
+```
+
+The block above is static — displayed but not executed.
