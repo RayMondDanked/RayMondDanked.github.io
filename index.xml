@@ -12,6 +12,78 @@
 <generator>quarto-1.10.18</generator>
 <lastBuildDate>Tue, 01 Sep 2026 23:00:00 GMT</lastBuildDate>
 <item>
+  <title>Hello World</title>
+  <dc:creator>Veerawat Raymond</dc:creator>
+  <link>https://raymonddanked.github.io/posts/hello-world/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="math" class="level2">
+<h2 class="anchored" data-anchor-id="math">Math</h2>
+<p>Inline math works like this: the update <img src="https://latex.codecogs.com/png.latex?x_%7Bk+1%7D%20=%20x_k%20-%20%5Calpha%20%5Cnabla%20f(x_k)"> should render as a formula rather than literal dollar signs.</p>
+<p>Display math:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0A%5Cmin_%7Bx%20%5Cin%20%5Cmathcal%7BX%7D%7D%20%5C;%20f(x),%20%5Cqquad%20%5Cmathcal%7BX%7D%20%5Csubseteq%20%5Cmathbb%7BR%7D%5En%0A"></p>
+</section>
+<section id="code" class="level2">
+<h2 class="anchored" data-anchor-id="code">Code</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb1-1"><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">function</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rosenbrock</span>(x)</span>
+<span id="cb1-2">    <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">return</span> (<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span> <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span> x[<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>])<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">^</span><span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span> <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100</span> <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> (x[<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>] <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span> x[<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>]<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">^</span><span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>)<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">^</span><span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span></span>
+<span id="cb1-3"><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">end</span></span></code></pre></div></div>
+<p>The block above is static — displayed but not executed.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://raymonddanked.github.io/posts/hello-world/</guid>
+  <pubDate>Tue, 01 Sep 2026 23:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
   <link>https://raymonddanked.github.io/posts/post-with-code/</link>
