@@ -1,7 +1,9 @@
 ---
-title: "Title TBD"
+title: "Raymond's Blog Posts"
 listing:
-  contents: posts
+  contents: 
+    - posts
+    - blogs
   feed: true
   sort: "date desc"
   type: default

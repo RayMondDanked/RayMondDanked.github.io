@@ -3,12 +3,14 @@ project:
   output-dir: _site
 
 website:
-  title: "Title TBD"
+  title: "Home"
   site-url: "https://raymonddanked.github.io"
   navbar:
     left:
-      - href: index.qmd
-        text: Posts
+      - href: blog_index.qmd
+        text: Blogs
+      - href: code_index.qmd
+        text: Code
       - href: about.qmd
         text: About
 
