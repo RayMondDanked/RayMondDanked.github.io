@@ -1,10 +1,15 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/blog_index.html",
     "items": [
-      "/posts/hello-world/index.html",
+      "/blogs/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/code_index.html",
+    "items": [
       "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/blogs/welcome/index.html"
     ]
   }
 ]
