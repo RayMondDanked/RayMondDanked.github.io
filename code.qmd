@@ -1,7 +1,9 @@
 ---
 title: "Raymond's Blog Posts"
 listing:
-  contents: blogs
+  contents:
+    - posts
+    - blogs
   feed: true
   sort: "date desc"
   type: default
@@ -11,5 +13,3 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-
-

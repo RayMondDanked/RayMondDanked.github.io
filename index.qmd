@@ -1,0 +1,6 @@
+---
+title: "Home"
+page-layout: full
+---
+
+![](profile.jpg){fig-alt="Portrait" width="500"}

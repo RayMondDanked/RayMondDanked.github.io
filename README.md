@@ -54,7 +54,9 @@ In VSCode, Ctrl+Shift+K renders the current document.
 
 ```
 _quarto.yml     site config: title, navbar, theme, format
-index.qmd       home page (auto-generated post listing)
+index.qmd       home page
+blogs.qmd       blog-post listing
+code.qmd        code-post listing
 about.qmd       about page
 styles.css      custom CSS
 posts/          one folder per post, each with index.qmd

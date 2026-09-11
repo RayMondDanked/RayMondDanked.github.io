@@ -7,9 +7,9 @@ website:
   site-url: "https://raymonddanked.github.io"
   navbar:
     left:
-      - href: blog_index.qmd
+      - href: blogs.qmd
         text: Blogs
-      - href: code_index.qmd
+      - href: code.qmd
         text: Code
       - href: about.qmd
         text: About
