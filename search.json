@@ -25,7 +25,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "My name is Veerawat (Raymond) Udomvorakulchai. I am currently a Chemical Engineering PhD student at University College London (UCL). My research interest is in process systems engineering (PSE), focusing on developing tools to optimize real-world complex processes.\nSome publications on multi-agent systems for hybrid optimization under the supervision of Prof. Eric S. Fraga can be found below:"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "About",
+    "section": "Publications",
+    "text": "Publications\n\n\nBOOK CHAPTER\nA multi-agent system for hybrid optimization\n Eric S. Fraga, Veerawat Udomvorakulchai, Lazaros G. Papageorgiou\nPart of the volume: 34th European Symposium on Computer Aided Process Engineering / 15th International Symposium on Process Systems Engineering.\nJOURNAL ARTICLE\nA multi-agent system for hybrid optimization\n Eric S. Fraga, Veerawat Udomvorakulchai, Miguel Pineda, Lazaros G. Papageorgiou\nPart of the special issue: Selected papers on Process systems engineering: methodology & applications from ESCAPE 34 - PSE 2024.\nCONFERENCE PAPER\nIntroducing Competition in a Multi-Agent System for Hybrid Optimization\n Veerawat Udomvorakulchai, Miguel Pineda, Eric S. Fraga"
   },
   {
     "objectID": "blogs.html",
