@@ -1,9 +1,7 @@
 ---
-title: "Raymond's Blog Posts"
+title: "Raymond's Code Posts"
 listing:
-  contents:
-    - posts
-    - blogs
+  contents: posts
   feed: true
   sort: "date desc"
   type: default
