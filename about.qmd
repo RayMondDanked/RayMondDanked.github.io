@@ -4,16 +4,41 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/veerawat-udomvorakulchai/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/RayMondDanked
 
 ---
 
-About this blog
+My name is Veerawat (Raymond) Udomvorakulchai. I am currently a Chemical Engineering PhD student at University College London (UCL). My research interest is in process systems engineering (PSE), focusing on developing tools to optimize real-world complex processes. 
+
+Some publications on multi-agent systems for hybrid optimization under the supervision of Prof. Eric S. Fraga can be found below:
+
+## Publications
+
+::: {.publication-list}
+1. <span class="publication-type">BOOK CHAPTER</span>
+
+   [A multi-agent system for hybrid optimization](https://doi.org/10.1016/B978-0-443-28824-1.50556-1)
+
+   <i class="bi bi-person-fill" aria-hidden="true"></i> Eric S. Fraga, Veerawat Udomvorakulchai, Lazaros G. Papageorgiou
+
+   Part of the volume: 34th European Symposium on Computer Aided Process Engineering / 15th International Symposium on Process Systems Engineering.
+
+2. <span class="publication-type">JOURNAL ARTICLE</span>
+
+   [A multi-agent system for hybrid optimization](https://doi.org/10.1016/j.compchemeng.2025.109258)
+
+   <i class="bi bi-person-fill" aria-hidden="true"></i> Eric S. Fraga, Veerawat Udomvorakulchai, Miguel Pineda, Lazaros G. Papageorgiou
+
+   Part of the special issue: Selected papers on Process systems engineering: methodology & applications from ESCAPE 34 - PSE 2024.
+
+3. <span class="publication-type">CONFERENCE PAPER</span>
+
+   [Introducing Competition in a Multi-Agent System for Hybrid Optimization](https://doi.org/10.69997/sct.132182)
+
+   <i class="bi bi-person-fill" aria-hidden="true"></i> Veerawat Udomvorakulchai, Miguel Pineda, Eric S. Fraga
+:::
